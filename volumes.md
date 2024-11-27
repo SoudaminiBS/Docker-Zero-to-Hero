@@ -1,4 +1,4 @@
-# Docker Volumes : 2 types
+# Docker Volumes
 
 ## Problem Statement
 
